@@ -66,7 +66,7 @@
     "@vue/component-compiler-utils": "^3.0.0",
     "clean-css": "^4.1.11",
     "hash-sum": "^1.0.2",
-    "postcss-modules-sync": "^1.0.0",
+    "postcss-modules-sync": "dword-design/postcss-modules-sync#fork",
     "source-map": "0.6.*"
   }
 }
